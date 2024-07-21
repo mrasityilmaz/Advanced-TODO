@@ -1,5 +1,5 @@
 # Advanced-TODO
-
+![ss](https://github.com/mrasityilmaz/Advanced-TODO/blob/main/preview.png)
 ![atodo-0](https://user-images.githubusercontent.com/81583706/169709739-5f972be3-44a0-49c2-b767-1e11ec1116bc.jpeg)
 ![atodo-1](https://user-images.githubusercontent.com/81583706/169709741-4ac17c35-f7df-45ad-abac-11ed1a7db70e.jpeg)
 ![atodo-2](https://user-images.githubusercontent.com/81583706/169709743-69b1f3d7-a555-4ca5-8696-56ac410e0d42.jpeg)
